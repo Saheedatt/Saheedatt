@@ -1,5 +1,7 @@
 ### Hi there 👋
 My name is Saheedat Afolabi
+I am currently learning React.js. I think I am having a great time with it. I like it a lot. 
+
 <!--
 **Saheedatt/Saheedatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
