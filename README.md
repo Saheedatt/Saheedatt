@@ -1,5 +1,6 @@
 ### Hello there 👋
 My name is Saheedat Afolabi.
+I am a <b>Self taught developer</>...for most part.
 
 I am currently learning React.js. I think I am having a great time with it. I like it a lot. 
 
