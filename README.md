@@ -6,6 +6,8 @@ I am currently learning React.js. I think I am having a great time with it. I li
 
 Pronouns: <b>She/Her.
 
+I am currently working on a social media app project uding React.js
+
 <!--
 **Saheedatt/Saheedatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
