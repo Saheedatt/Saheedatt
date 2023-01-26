@@ -2,6 +2,8 @@
 My name is Saheedat Afolabi.
 I am a <b>Self taught developer...for most part.</b>
 
+An aspiring frontend developer.
+
 I am currently learning React.js. I think I am having a great time with it. I like it a lot. 
 
 Pronouns: <b>She/Her.</b>
