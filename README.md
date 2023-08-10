@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Afolabi Saheedat, an aspiring frontend developer with a passion for creating responsive and visually appealing web applications. I got into coding about a year ago, and I'm currently learning React while brushing up my JavaScript skills. Coding is an exciting journey, and I'm loving every moment of it!
+I'm Afolabi Saheedat, an aspiring frontend developer with a passion for creating responsive and visually appealing web applications. I got into coding about a year ago, and I'm currently trying to brush up my JavaScript skills. Coding is an exciting journey, and I'm loving every moment of it!
 
 ## About Me
 - Pronouns: She/Her
@@ -9,7 +9,7 @@ I'm Afolabi Saheedat, an aspiring frontend developer with a passion for creating
 - ⚡ I'm fascinated by the human anatomy and enjoy reading in my free time.
 
 ## Interests
-- Frontend Development: Creating visually appealing web applications with React and JavaScript.
+- Frontend Development: Creating visually appealing web applications with JavaScript.
 - Python: Exploring Python's potential for different projects.
 - Collaboration: Open to collaborating on projects that align with my skills and interests.
 - Open Source: I'm also considering exploring open source contributions. While I'm not sure where to start right now, I'm excited to dive into the world of open-source projects and make meaningful contributions.
@@ -25,10 +25,7 @@ I'm Afolabi Saheedat, an aspiring frontend developer with a passion for creating
  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs.svg" width="36" height="36" alt="Next.js" />
 </p>
 
-## Projects
-- Check out some of my projects in the repositories below to see what I've been working on.
 
-Let's connect and collaborate on exciting projects together! 😄
 
 
                     
