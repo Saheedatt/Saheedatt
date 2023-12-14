@@ -13,7 +13,7 @@ I'm Afolabi Saheedat, an aspiring software engineer with a passion for creating 
 - 😊 Pronouns: She/Her
 - 💡 Fun facts:
      - I'm currently studying at AltSchool Africa [School of Software Engineering](https://engineering.altschoolafrica.com/) Class of 2023.
-     - I'm fascinated by the human anatomy and enjoy reading in my free time.
+     - I'm fascinated by the human anatomy and enjoy reading novels in my free time.
      - 
 - 🌱 I’m currently learning HTML, CSS, Javasript.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
