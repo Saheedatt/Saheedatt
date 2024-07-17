@@ -5,7 +5,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@idontseemysellf-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/idontseemyselff)](https://twitter.com/idontseemyselff)
 
 
-I'm Saheedat Afolabi, an aspiring software engineer with a passion for creating responsive and visually appealing web applications.
+I'm Saheedat Afolabi, an aspiring software engineer. I'd love to create responsive and visually appealing web applications.
 
 
 **Here's a quick summary about me**:
@@ -15,7 +15,7 @@ I'm Saheedat Afolabi, an aspiring software engineer with a passion for creating 
      - I'm currently studying at AltSchool Africa [School of Software Engineering](https://engineering.altschoolafrica.com/) Class of 2023.
      - I am a Physiotherapy Student.
      - I'm fascinated by the human anatomy and enjoy reading novels in my free time.
-- 🌱 I’m currently learning HTML, CSS, Javasript.
+- 🌱 I’m currently learning Vue.js and TypeScript.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Frontend Engineer, or UI Engineer (Intern or Junior level).
 - 📫 You contact me by emailing mailtoafolabisaheedat1@gmail.com.
