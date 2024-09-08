@@ -5,7 +5,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@idontseemysellf-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/idontseemyselff)](https://twitter.com/idontseemyselff)
 
 
-I'm Saheedat Afolabi, an aspiring software engineer. I'd love to create responsive and visually appealing web applications.
+I'm Saheedat Afolabi, a software engineer. I love to create responsive and visually appealing web applications.
 
 
 **Here's a quick summary about me**:
