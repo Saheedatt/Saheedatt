@@ -12,11 +12,11 @@ I'm Saheedat Afolabi, an aspiring software engineer. I'd love to create responsi
 
 - 😊 Pronouns: She/Her
 - 💡 Fun facts:
-     - I'm currently studying at AltSchool Africa [School of Software Engineering](https://engineering.altschoolafrica.com/) Class of 2023.
+     - I'm a graduate of AltSchool Africa [School of Software Engineering](https://engineering.altschoolafrica.com/) Class of 2023.
      - I am a Physiotherapy Student.
      - I'm fascinated by the human anatomy and enjoy reading novels in my free time.
-- 🌱 I’m currently learning Vue.js and TypeScript.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
+- 🌱 I’m building and involving myself with continous learning.
+- 😊 I’m looking for oppportunities related to open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Frontend Engineer, or UI Engineer (Intern or Junior level).
 - 📫 You contact me by emailing mailtoafolabisaheedat1@gmail.com.
 
