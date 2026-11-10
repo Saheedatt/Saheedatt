@@ -13,7 +13,7 @@ A little about me:
 - Pronouns: they/them
 - AltSchool Africa [School of Software Engineering](https://engineering.altschoolafrica.com/) Class of 2023.
 - Interested in growth marketing, content strategy, social media, and digital products.
-- I am a Physiotherapist.
+- Physiotherapist.
 - Fascinated by human behaviour, storytelling, and the psychology behind decision-making.
 - Exploring AI tools and technical workflows to make marketing more effective.
 - Enjoy reading novels and continuously learning across disciplines.
